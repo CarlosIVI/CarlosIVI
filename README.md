@@ -22,7 +22,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/juanchovelezpro">
+<a href="https://github.com/CarlosIVI">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosIVI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlosIVI&layout=compact&langs_count=8&theme=algolia"/>
 </a>
